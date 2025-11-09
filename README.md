@@ -51,9 +51,9 @@
   </a>
   <a href="mailto:harsh821101@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Rajharsh0001" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>  
+  <a href="https://rajharshh.netlify.app/" target="_blank">
+    <img src="https://icons8.com/icon/7867/link"/>
   </a>
 </p>
 
