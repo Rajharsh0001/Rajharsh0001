@@ -7,10 +7,10 @@
 
 ---
 
-## 💻 Tech Stack
+💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,mysql,java,html,css,git,npm" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,java,html,css,tailwind,vite,mongodb,mysql,postgres,git,github,maven,npm,postman,vscode,idea,netlify" alt="Tech stack"/>
 </p>
 
 ---
@@ -39,15 +39,9 @@
 
 ---
 
-## 🔥 Streak & Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshraj-dev&theme=tokyonight" height="180px"/>
-</p>
 
----
-
-## 📫 Connect with Me
+📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-raj-1a886723a/" target="_blank">
