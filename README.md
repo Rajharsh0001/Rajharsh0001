@@ -17,29 +17,15 @@
 
 🧰 Tools I Use
 - Frontend: React.js, HTML5, CSS3, JavaScript, Tailwind CSS, Vite
-- Backend: Node.js, Express.js, JDBC, JSP, Servlets, RESTful APIs  
+- Backend: Node.js, Express.js, JDBC, JSP, Servlets, RESTful APIs, Hibernate
 - Databases: MongoDB, MySQL, PostgreSQL, SQL  
 - Languages: Java, JavaScript, SQL  
 - Build Tools: Vite, Maven, npm  
 - Version Control: Git, GitHub  
 - Cloud & Deployment: Netlify, GitHub Pages  
 - IDE & Tools: VS Code, IntelliJ IDEA, Postman, pgAdmin, MySQL Workbench  
--  
-
-
 
 ---
-
- 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshraj-dev&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshraj-dev&layout=compact&theme=radical" height="180px"/>
-</p>
-
----
-
-
 
 📫 Connect with Me
 
